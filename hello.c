@@ -1,7 +1,8 @@
 /**
- * Author: Kolton O'Neal
- * Date: 2021/08/23
+ * Author: Kolton O'Neal & Grady Henexson
+ * Date: 2021/08/26
  *
+ * Hack 1.0 Program
  */
 
 #include <stdlib.h>
@@ -9,6 +10,7 @@
 
 int main(int argc, char **argv) {
 
-    printf("Hello World!\n");
+    printf("Hello World, my name is Kolton O'Neal!\n");
+    printf("My major is Mathematics!\n");
 
 }
